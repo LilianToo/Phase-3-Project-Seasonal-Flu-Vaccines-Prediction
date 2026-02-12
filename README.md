@@ -1,5 +1,5 @@
 # Phase-3-Project-Seasonal-Flu-Vaccines-Prediction
-Binary classification project predicting seasonal flu vaccination using National 2009 H1N1 Flu Survey Dataset
+This is a binary classification project predicting seasonal flu vaccination using National 2009 H1N1 Flu Survey Dataset
 
 Introduction 
 

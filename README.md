@@ -8,8 +8,11 @@ This project aims at developing a predictive model that estimates whether an ind
 The objective of this project is to answer the following key questions:
 
 a). What is the Prediction Accuracy?
+
 b). Which factors strongly influenced the uptake of the Seasonal flu vaccines?
+
 c). Which groups of people are least likely to get vaccinated, and how can they be identified through predictive modeling?
+
 d). How will the insights help in public health strategy?
 
 

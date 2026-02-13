@@ -22,3 +22,25 @@ Dataset Overview
 
 The dataset contains 26707 survey responses with 36 features capturing the demographics,health behaviors, and other attributes. It provides two binary target variables (H1N1 vaccine uptake and Seasonal Flu vaccine Uptake). For this project my focus is on Seasonal Flu Vaccine Uptake.
 The dataset is ideal for building classification models to understand and predict vaccination behavior.
+
+Data Preparation,Analysis and Visualization
+
+The data is cleaned,balanced and features engineered. Classification models used include logistic regression where key predictors emerge such as trust in providers,doctor visits,age and opinion on effects of the vaccine.
+The ROC curve shows how well our model distinguishes between vaccinated and non vaccinated individuals while the Confusion Matrix helps visualize where the models gets it right and where it misclassifies.
+
+Recommendations
+
+Based on the findings, we recommend the following:
+Targeted approach to younger adults and those without regular health access.
+Building trust with health providers will boost the uptake of vaccines.
+Tailored Communication using community health workers.
+Address safety concerns clearly.
+Regularly monitor and update models and use of current datasets.
+
+Conclusion
+
+By applying these insights, we can increase Seasonal Flu vaccine uptake and strengthen preparedness for future health challenges i.e the Covid 19 Pandemic.
+
+
+
+
